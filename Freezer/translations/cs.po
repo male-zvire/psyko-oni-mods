@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cs_CZ\n"
+"X-Generator: Poedit 3.0\n"
+
+#. Psyko.Freezer.STRINGS.BUILDINGS.PREFABS.FREEZER.DESC
+msgctxt "Psyko.Freezer.STRINGS.BUILDINGS.PREFABS.FREEZER.DESC"
+msgid "Food will be kept nice and very cold."
+msgstr "Udržuje jídlo v chladu."
+
+#. Psyko.Freezer.STRINGS.BUILDINGS.PREFABS.FREEZER.EFFECT
+msgctxt "Psyko.Freezer.STRINGS.BUILDINGS.PREFABS.FREEZER.EFFECT"
+msgid "Stores <link=\"FOOD\">Food</link> at a very cold <link=\"HEAT\">Temperature</link> to stop spoilage."
+msgstr "Skladuje <link=\"FOOD\">jídlo</link> při velmi nízké <link=\"HEAT\">telpotě</link> čímž brání jeho zkažení."
+
+#. Psyko.Freezer.STRINGS.BUILDINGS.PREFABS.FREEZER.LOGIC_PORT
+msgctxt "Psyko.Freezer.STRINGS.BUILDINGS.PREFABS.FREEZER.LOGIC_PORT"
+msgid "Full/Not Full"
+msgstr "Plný/Není plný"
+
+#. Psyko.Freezer.STRINGS.BUILDINGS.PREFABS.FREEZER.LOGIC_PORT_ACTIVE
+msgctxt "Psyko.Freezer.STRINGS.BUILDINGS.PREFABS.FREEZER.LOGIC_PORT_ACTIVE"
+msgid "Sends a <b><style=\"logic_on\">Green Signal</style></b> when full"
+msgstr "Po naplnění vyšle <b><style=\"logic_on\">zelený signál</style></b>"
+
+#. Psyko.Freezer.STRINGS.BUILDINGS.PREFABS.FREEZER.LOGIC_PORT_INACTIVE
+msgctxt "Psyko.Freezer.STRINGS.BUILDINGS.PREFABS.FREEZER.LOGIC_PORT_INACTIVE"
+msgid "Otherwise, sends a <b><style=\"logic_off\">Red Signal</style></b>"
+msgstr "Jinak vyšle <b><style=\"logic_off\">červený signál</style></b>"
+
+#. Psyko.Freezer.STRINGS.BUILDINGS.PREFABS.FREEZER.NAME
+msgctxt "Psyko.Freezer.STRINGS.BUILDINGS.PREFABS.FREEZER.NAME"
+msgid "<link=\"FREEZER\">Freezer</link>"
+msgstr "<link=\"FREEZER\">Mrazák</link>"
